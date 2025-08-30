@@ -18,6 +18,13 @@ h1, h2, h3, h4 {
   color: #0d6efd !important;
   transform: scale(1.2);
   transition: transform 0.3s ease;
+  cursor: pointer;
+}
+.navbar-brand,span:hover{
+  color: #527d9d !important;
+}
+.navbar-brand span{
+  color: #aa3d31 !important;
 }
 .nav-link {
   transition: color 0.3s ease;
