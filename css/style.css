@@ -34,6 +34,13 @@ h1, h2, h3, h4 {
   width: 40px;
   margin-bottom: 20px;
 }
+header{
+  background-image: url(../IMAGES/deve.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  object-fit: cover;
+}
 
 /* Buttons */
 .btn-primary {
